@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v5.0": {
-      "CSharp-Programming/1.0.0": {
+      "Degiskenler/1.0.0": {
         "runtime": {
-          "CSharp-Programming.dll": {}
+          "Degiskenler.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "CSharp-Programming/1.0.0": {
+    "Degiskenler/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

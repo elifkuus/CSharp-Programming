@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("CSharp-Programming")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Degiskenler")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("CSharp-Programming")]
-[assembly: System.Reflection.AssemblyTitleAttribute("CSharp-Programming")]
+[assembly: System.Reflection.AssemblyProductAttribute("Degiskenler")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Degiskenler")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.

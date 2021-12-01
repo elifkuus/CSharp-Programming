@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elifk\\Desktop\\CSharp-Programming\\CSharp-Programming.csproj",
-      "projectName": "CSharp-Programming",
-      "projectPath": "C:\\Users\\elifk\\Desktop\\CSharp-Programming\\CSharp-Programming.csproj",
+      "projectUniqueName": "C:\\Users\\elifk\\Desktop\\CSharp-Programming\\Degiskenler\\Degiskenler.csproj",
+      "projectName": "Degiskenler",
+      "projectPath": "C:\\Users\\elifk\\Desktop\\CSharp-Programming\\Degiskenler\\Degiskenler.csproj",
       "packagesPath": "C:\\Users\\elifk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elifk\\Desktop\\CSharp-Programming\\obj\\",
+      "outputPath": "C:\\Users\\elifk\\Desktop\\CSharp-Programming\\Degiskenler\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\elifk\\AppData\\Roaming\\NuGet\\NuGet.Config",
