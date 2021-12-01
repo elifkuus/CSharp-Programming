@@ -1,0 +1,16 @@
+C:\Users\elifk\Desktop\CSharp-Programming\Operatorler\bin\Debug\net5.0\Operatorler.exe
+C:\Users\elifk\Desktop\CSharp-Programming\Operatorler\bin\Debug\net5.0\Operatorler.deps.json
+C:\Users\elifk\Desktop\CSharp-Programming\Operatorler\bin\Debug\net5.0\Operatorler.runtimeconfig.json
+C:\Users\elifk\Desktop\CSharp-Programming\Operatorler\bin\Debug\net5.0\Operatorler.runtimeconfig.dev.json
+C:\Users\elifk\Desktop\CSharp-Programming\Operatorler\bin\Debug\net5.0\Operatorler.dll
+C:\Users\elifk\Desktop\CSharp-Programming\Operatorler\bin\Debug\net5.0\ref\Operatorler.dll
+C:\Users\elifk\Desktop\CSharp-Programming\Operatorler\bin\Debug\net5.0\Operatorler.pdb
+C:\Users\elifk\Desktop\CSharp-Programming\Operatorler\obj\Debug\net5.0\Operatorler.csproj.AssemblyReference.cache
+C:\Users\elifk\Desktop\CSharp-Programming\Operatorler\obj\Debug\net5.0\Operatorler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifk\Desktop\CSharp-Programming\Operatorler\obj\Debug\net5.0\Operatorler.AssemblyInfoInputs.cache
+C:\Users\elifk\Desktop\CSharp-Programming\Operatorler\obj\Debug\net5.0\Operatorler.AssemblyInfo.cs
+C:\Users\elifk\Desktop\CSharp-Programming\Operatorler\obj\Debug\net5.0\Operatorler.csproj.CoreCompileInputs.cache
+C:\Users\elifk\Desktop\CSharp-Programming\Operatorler\obj\Debug\net5.0\Operatorler.dll
+C:\Users\elifk\Desktop\CSharp-Programming\Operatorler\obj\Debug\net5.0\ref\Operatorler.dll
+C:\Users\elifk\Desktop\CSharp-Programming\Operatorler\obj\Debug\net5.0\Operatorler.pdb
+C:\Users\elifk\Desktop\CSharp-Programming\Operatorler\obj\Debug\net5.0\Operatorler.genruntimeconfig.cache
