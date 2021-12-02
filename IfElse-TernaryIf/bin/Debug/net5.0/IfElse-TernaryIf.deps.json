@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "IfElse-TernaryIf/1.0.0": {
+        "runtime": {
+          "IfElse-TernaryIf.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "IfElse-TernaryIf/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

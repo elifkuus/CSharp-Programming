@@ -1,0 +1,16 @@
+C:\Users\elifk\Desktop\CSharp-Programming\IfElse-TernaryIf\bin\Debug\net5.0\IfElse-TernaryIf.exe
+C:\Users\elifk\Desktop\CSharp-Programming\IfElse-TernaryIf\bin\Debug\net5.0\IfElse-TernaryIf.deps.json
+C:\Users\elifk\Desktop\CSharp-Programming\IfElse-TernaryIf\bin\Debug\net5.0\IfElse-TernaryIf.runtimeconfig.json
+C:\Users\elifk\Desktop\CSharp-Programming\IfElse-TernaryIf\bin\Debug\net5.0\IfElse-TernaryIf.runtimeconfig.dev.json
+C:\Users\elifk\Desktop\CSharp-Programming\IfElse-TernaryIf\bin\Debug\net5.0\IfElse-TernaryIf.dll
+C:\Users\elifk\Desktop\CSharp-Programming\IfElse-TernaryIf\bin\Debug\net5.0\ref\IfElse-TernaryIf.dll
+C:\Users\elifk\Desktop\CSharp-Programming\IfElse-TernaryIf\bin\Debug\net5.0\IfElse-TernaryIf.pdb
+C:\Users\elifk\Desktop\CSharp-Programming\IfElse-TernaryIf\obj\Debug\net5.0\IfElse-TernaryIf.csproj.AssemblyReference.cache
+C:\Users\elifk\Desktop\CSharp-Programming\IfElse-TernaryIf\obj\Debug\net5.0\IfElse-TernaryIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifk\Desktop\CSharp-Programming\IfElse-TernaryIf\obj\Debug\net5.0\IfElse-TernaryIf.AssemblyInfoInputs.cache
+C:\Users\elifk\Desktop\CSharp-Programming\IfElse-TernaryIf\obj\Debug\net5.0\IfElse-TernaryIf.AssemblyInfo.cs
+C:\Users\elifk\Desktop\CSharp-Programming\IfElse-TernaryIf\obj\Debug\net5.0\IfElse-TernaryIf.csproj.CoreCompileInputs.cache
+C:\Users\elifk\Desktop\CSharp-Programming\IfElse-TernaryIf\obj\Debug\net5.0\IfElse-TernaryIf.dll
+C:\Users\elifk\Desktop\CSharp-Programming\IfElse-TernaryIf\obj\Debug\net5.0\ref\IfElse-TernaryIf.dll
+C:\Users\elifk\Desktop\CSharp-Programming\IfElse-TernaryIf\obj\Debug\net5.0\IfElse-TernaryIf.pdb
+C:\Users\elifk\Desktop\CSharp-Programming\IfElse-TernaryIf\obj\Debug\net5.0\IfElse-TernaryIf.genruntimeconfig.cache
