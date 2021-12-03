@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\elifk\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\elifk\\.nuget\\packages"
+    ]
+  }
+}
