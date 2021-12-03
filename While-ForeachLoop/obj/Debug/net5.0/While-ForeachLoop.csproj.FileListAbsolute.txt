@@ -1,0 +1,16 @@
+C:\Users\elifk\Desktop\CSharp-Programming\While-ForeachLoop\bin\Debug\net5.0\While-ForeachLoop.exe
+C:\Users\elifk\Desktop\CSharp-Programming\While-ForeachLoop\bin\Debug\net5.0\While-ForeachLoop.deps.json
+C:\Users\elifk\Desktop\CSharp-Programming\While-ForeachLoop\bin\Debug\net5.0\While-ForeachLoop.runtimeconfig.json
+C:\Users\elifk\Desktop\CSharp-Programming\While-ForeachLoop\bin\Debug\net5.0\While-ForeachLoop.runtimeconfig.dev.json
+C:\Users\elifk\Desktop\CSharp-Programming\While-ForeachLoop\bin\Debug\net5.0\While-ForeachLoop.dll
+C:\Users\elifk\Desktop\CSharp-Programming\While-ForeachLoop\bin\Debug\net5.0\ref\While-ForeachLoop.dll
+C:\Users\elifk\Desktop\CSharp-Programming\While-ForeachLoop\bin\Debug\net5.0\While-ForeachLoop.pdb
+C:\Users\elifk\Desktop\CSharp-Programming\While-ForeachLoop\obj\Debug\net5.0\While-ForeachLoop.csproj.AssemblyReference.cache
+C:\Users\elifk\Desktop\CSharp-Programming\While-ForeachLoop\obj\Debug\net5.0\While-ForeachLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifk\Desktop\CSharp-Programming\While-ForeachLoop\obj\Debug\net5.0\While-ForeachLoop.AssemblyInfoInputs.cache
+C:\Users\elifk\Desktop\CSharp-Programming\While-ForeachLoop\obj\Debug\net5.0\While-ForeachLoop.AssemblyInfo.cs
+C:\Users\elifk\Desktop\CSharp-Programming\While-ForeachLoop\obj\Debug\net5.0\While-ForeachLoop.csproj.CoreCompileInputs.cache
+C:\Users\elifk\Desktop\CSharp-Programming\While-ForeachLoop\obj\Debug\net5.0\While-ForeachLoop.dll
+C:\Users\elifk\Desktop\CSharp-Programming\While-ForeachLoop\obj\Debug\net5.0\ref\While-ForeachLoop.dll
+C:\Users\elifk\Desktop\CSharp-Programming\While-ForeachLoop\obj\Debug\net5.0\While-ForeachLoop.pdb
+C:\Users\elifk\Desktop\CSharp-Programming\While-ForeachLoop\obj\Debug\net5.0\While-ForeachLoop.genruntimeconfig.cache
