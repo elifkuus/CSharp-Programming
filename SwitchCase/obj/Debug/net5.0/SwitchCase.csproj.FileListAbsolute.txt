@@ -1,0 +1,16 @@
+C:\Users\elifk\Desktop\CSharp-Programming\SwitchCase\bin\Debug\net5.0\SwitchCase.exe
+C:\Users\elifk\Desktop\CSharp-Programming\SwitchCase\bin\Debug\net5.0\SwitchCase.deps.json
+C:\Users\elifk\Desktop\CSharp-Programming\SwitchCase\bin\Debug\net5.0\SwitchCase.runtimeconfig.json
+C:\Users\elifk\Desktop\CSharp-Programming\SwitchCase\bin\Debug\net5.0\SwitchCase.runtimeconfig.dev.json
+C:\Users\elifk\Desktop\CSharp-Programming\SwitchCase\bin\Debug\net5.0\SwitchCase.dll
+C:\Users\elifk\Desktop\CSharp-Programming\SwitchCase\bin\Debug\net5.0\ref\SwitchCase.dll
+C:\Users\elifk\Desktop\CSharp-Programming\SwitchCase\bin\Debug\net5.0\SwitchCase.pdb
+C:\Users\elifk\Desktop\CSharp-Programming\SwitchCase\obj\Debug\net5.0\SwitchCase.csproj.AssemblyReference.cache
+C:\Users\elifk\Desktop\CSharp-Programming\SwitchCase\obj\Debug\net5.0\SwitchCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifk\Desktop\CSharp-Programming\SwitchCase\obj\Debug\net5.0\SwitchCase.AssemblyInfoInputs.cache
+C:\Users\elifk\Desktop\CSharp-Programming\SwitchCase\obj\Debug\net5.0\SwitchCase.AssemblyInfo.cs
+C:\Users\elifk\Desktop\CSharp-Programming\SwitchCase\obj\Debug\net5.0\SwitchCase.csproj.CoreCompileInputs.cache
+C:\Users\elifk\Desktop\CSharp-Programming\SwitchCase\obj\Debug\net5.0\SwitchCase.dll
+C:\Users\elifk\Desktop\CSharp-Programming\SwitchCase\obj\Debug\net5.0\ref\SwitchCase.dll
+C:\Users\elifk\Desktop\CSharp-Programming\SwitchCase\obj\Debug\net5.0\SwitchCase.pdb
+C:\Users\elifk\Desktop\CSharp-Programming\SwitchCase\obj\Debug\net5.0\SwitchCase.genruntimeconfig.cache
