@@ -1,0 +1,16 @@
+C:\Users\elifk\Desktop\CSharp-Programming\Metot-Recursive-Extension\bin\Debug\net5.0\Metot-Recursive-Extension.exe
+C:\Users\elifk\Desktop\CSharp-Programming\Metot-Recursive-Extension\bin\Debug\net5.0\Metot-Recursive-Extension.deps.json
+C:\Users\elifk\Desktop\CSharp-Programming\Metot-Recursive-Extension\bin\Debug\net5.0\Metot-Recursive-Extension.runtimeconfig.json
+C:\Users\elifk\Desktop\CSharp-Programming\Metot-Recursive-Extension\bin\Debug\net5.0\Metot-Recursive-Extension.runtimeconfig.dev.json
+C:\Users\elifk\Desktop\CSharp-Programming\Metot-Recursive-Extension\bin\Debug\net5.0\Metot-Recursive-Extension.dll
+C:\Users\elifk\Desktop\CSharp-Programming\Metot-Recursive-Extension\bin\Debug\net5.0\ref\Metot-Recursive-Extension.dll
+C:\Users\elifk\Desktop\CSharp-Programming\Metot-Recursive-Extension\bin\Debug\net5.0\Metot-Recursive-Extension.pdb
+C:\Users\elifk\Desktop\CSharp-Programming\Metot-Recursive-Extension\obj\Debug\net5.0\Metot-Recursive-Extension.csproj.AssemblyReference.cache
+C:\Users\elifk\Desktop\CSharp-Programming\Metot-Recursive-Extension\obj\Debug\net5.0\Metot-Recursive-Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifk\Desktop\CSharp-Programming\Metot-Recursive-Extension\obj\Debug\net5.0\Metot-Recursive-Extension.AssemblyInfoInputs.cache
+C:\Users\elifk\Desktop\CSharp-Programming\Metot-Recursive-Extension\obj\Debug\net5.0\Metot-Recursive-Extension.AssemblyInfo.cs
+C:\Users\elifk\Desktop\CSharp-Programming\Metot-Recursive-Extension\obj\Debug\net5.0\Metot-Recursive-Extension.csproj.CoreCompileInputs.cache
+C:\Users\elifk\Desktop\CSharp-Programming\Metot-Recursive-Extension\obj\Debug\net5.0\Metot-Recursive-Extension.dll
+C:\Users\elifk\Desktop\CSharp-Programming\Metot-Recursive-Extension\obj\Debug\net5.0\ref\Metot-Recursive-Extension.dll
+C:\Users\elifk\Desktop\CSharp-Programming\Metot-Recursive-Extension\obj\Debug\net5.0\Metot-Recursive-Extension.pdb
+C:\Users\elifk\Desktop\CSharp-Programming\Metot-Recursive-Extension\obj\Debug\net5.0\Metot-Recursive-Extension.genruntimeconfig.cache
