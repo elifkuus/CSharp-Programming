@@ -1,0 +1,16 @@
+C:\Users\elifk\Desktop\CSharp-Programming\Odev1\Uyg4\bin\Debug\net5.0\Uyg4.exe
+C:\Users\elifk\Desktop\CSharp-Programming\Odev1\Uyg4\bin\Debug\net5.0\Uyg4.deps.json
+C:\Users\elifk\Desktop\CSharp-Programming\Odev1\Uyg4\bin\Debug\net5.0\Uyg4.runtimeconfig.json
+C:\Users\elifk\Desktop\CSharp-Programming\Odev1\Uyg4\bin\Debug\net5.0\Uyg4.runtimeconfig.dev.json
+C:\Users\elifk\Desktop\CSharp-Programming\Odev1\Uyg4\bin\Debug\net5.0\Uyg4.dll
+C:\Users\elifk\Desktop\CSharp-Programming\Odev1\Uyg4\bin\Debug\net5.0\ref\Uyg4.dll
+C:\Users\elifk\Desktop\CSharp-Programming\Odev1\Uyg4\bin\Debug\net5.0\Uyg4.pdb
+C:\Users\elifk\Desktop\CSharp-Programming\Odev1\Uyg4\obj\Debug\net5.0\Uyg4.csproj.AssemblyReference.cache
+C:\Users\elifk\Desktop\CSharp-Programming\Odev1\Uyg4\obj\Debug\net5.0\Uyg4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifk\Desktop\CSharp-Programming\Odev1\Uyg4\obj\Debug\net5.0\Uyg4.AssemblyInfoInputs.cache
+C:\Users\elifk\Desktop\CSharp-Programming\Odev1\Uyg4\obj\Debug\net5.0\Uyg4.AssemblyInfo.cs
+C:\Users\elifk\Desktop\CSharp-Programming\Odev1\Uyg4\obj\Debug\net5.0\Uyg4.csproj.CoreCompileInputs.cache
+C:\Users\elifk\Desktop\CSharp-Programming\Odev1\Uyg4\obj\Debug\net5.0\Uyg4.dll
+C:\Users\elifk\Desktop\CSharp-Programming\Odev1\Uyg4\obj\Debug\net5.0\ref\Uyg4.dll
+C:\Users\elifk\Desktop\CSharp-Programming\Odev1\Uyg4\obj\Debug\net5.0\Uyg4.pdb
+C:\Users\elifk\Desktop\CSharp-Programming\Odev1\Uyg4\obj\Debug\net5.0\Uyg4.genruntimeconfig.cache
