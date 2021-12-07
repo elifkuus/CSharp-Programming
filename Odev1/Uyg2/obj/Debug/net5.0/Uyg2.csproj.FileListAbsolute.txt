@@ -1,0 +1,16 @@
+C:\Users\elifk\Desktop\CSharp-Programming\Odev1\Uyg2\bin\Debug\net5.0\Uyg2.exe
+C:\Users\elifk\Desktop\CSharp-Programming\Odev1\Uyg2\bin\Debug\net5.0\Uyg2.deps.json
+C:\Users\elifk\Desktop\CSharp-Programming\Odev1\Uyg2\bin\Debug\net5.0\Uyg2.runtimeconfig.json
+C:\Users\elifk\Desktop\CSharp-Programming\Odev1\Uyg2\bin\Debug\net5.0\Uyg2.runtimeconfig.dev.json
+C:\Users\elifk\Desktop\CSharp-Programming\Odev1\Uyg2\bin\Debug\net5.0\Uyg2.dll
+C:\Users\elifk\Desktop\CSharp-Programming\Odev1\Uyg2\bin\Debug\net5.0\ref\Uyg2.dll
+C:\Users\elifk\Desktop\CSharp-Programming\Odev1\Uyg2\bin\Debug\net5.0\Uyg2.pdb
+C:\Users\elifk\Desktop\CSharp-Programming\Odev1\Uyg2\obj\Debug\net5.0\Uyg2.csproj.AssemblyReference.cache
+C:\Users\elifk\Desktop\CSharp-Programming\Odev1\Uyg2\obj\Debug\net5.0\Uyg2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifk\Desktop\CSharp-Programming\Odev1\Uyg2\obj\Debug\net5.0\Uyg2.AssemblyInfoInputs.cache
+C:\Users\elifk\Desktop\CSharp-Programming\Odev1\Uyg2\obj\Debug\net5.0\Uyg2.AssemblyInfo.cs
+C:\Users\elifk\Desktop\CSharp-Programming\Odev1\Uyg2\obj\Debug\net5.0\Uyg2.csproj.CoreCompileInputs.cache
+C:\Users\elifk\Desktop\CSharp-Programming\Odev1\Uyg2\obj\Debug\net5.0\Uyg2.dll
+C:\Users\elifk\Desktop\CSharp-Programming\Odev1\Uyg2\obj\Debug\net5.0\ref\Uyg2.dll
+C:\Users\elifk\Desktop\CSharp-Programming\Odev1\Uyg2\obj\Debug\net5.0\Uyg2.pdb
+C:\Users\elifk\Desktop\CSharp-Programming\Odev1\Uyg2\obj\Debug\net5.0\Uyg2.genruntimeconfig.cache
