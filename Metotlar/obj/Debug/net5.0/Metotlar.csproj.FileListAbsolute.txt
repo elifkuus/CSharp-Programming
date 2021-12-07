@@ -1,0 +1,16 @@
+C:\Users\elifk\Desktop\CSharp-Programming\Metotlar\bin\Debug\net5.0\Metotlar.exe
+C:\Users\elifk\Desktop\CSharp-Programming\Metotlar\bin\Debug\net5.0\Metotlar.deps.json
+C:\Users\elifk\Desktop\CSharp-Programming\Metotlar\bin\Debug\net5.0\Metotlar.runtimeconfig.json
+C:\Users\elifk\Desktop\CSharp-Programming\Metotlar\bin\Debug\net5.0\Metotlar.runtimeconfig.dev.json
+C:\Users\elifk\Desktop\CSharp-Programming\Metotlar\bin\Debug\net5.0\Metotlar.dll
+C:\Users\elifk\Desktop\CSharp-Programming\Metotlar\bin\Debug\net5.0\ref\Metotlar.dll
+C:\Users\elifk\Desktop\CSharp-Programming\Metotlar\bin\Debug\net5.0\Metotlar.pdb
+C:\Users\elifk\Desktop\CSharp-Programming\Metotlar\obj\Debug\net5.0\Metotlar.csproj.AssemblyReference.cache
+C:\Users\elifk\Desktop\CSharp-Programming\Metotlar\obj\Debug\net5.0\Metotlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elifk\Desktop\CSharp-Programming\Metotlar\obj\Debug\net5.0\Metotlar.AssemblyInfoInputs.cache
+C:\Users\elifk\Desktop\CSharp-Programming\Metotlar\obj\Debug\net5.0\Metotlar.AssemblyInfo.cs
+C:\Users\elifk\Desktop\CSharp-Programming\Metotlar\obj\Debug\net5.0\Metotlar.csproj.CoreCompileInputs.cache
+C:\Users\elifk\Desktop\CSharp-Programming\Metotlar\obj\Debug\net5.0\Metotlar.dll
+C:\Users\elifk\Desktop\CSharp-Programming\Metotlar\obj\Debug\net5.0\ref\Metotlar.dll
+C:\Users\elifk\Desktop\CSharp-Programming\Metotlar\obj\Debug\net5.0\Metotlar.pdb
+C:\Users\elifk\Desktop\CSharp-Programming\Metotlar\obj\Debug\net5.0\Metotlar.genruntimeconfig.cache
